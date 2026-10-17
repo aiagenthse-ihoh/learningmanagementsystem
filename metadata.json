@@ -1,0 +1,6 @@
+{
+  "name": "Learning & Competency Management System (LCMS)",
+  "description": "Aplikasi Learning & Competency Management System terintegrasi untuk pengelolaan matriks kompetensi jabatan, training karyawan, evaluasi gap, dan rencana pengembangan.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
